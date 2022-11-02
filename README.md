@@ -1,0 +1,1 @@
+Just for learning Typescript with clean code example.
